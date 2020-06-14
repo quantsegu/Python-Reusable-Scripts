@@ -1,0 +1,12 @@
+{
+    "ReutersKey":"a17f5ab013e449cc86857ecbfe62f4c96577df86",
+    "FieldsToFetch":"",
+    "TickersFile":"C:\\Users\\segul\\OneDrive\\Documents\\Tickers.csv",
+    "FetchOptions":
+                {
+                    "SDate": "2019-06-12", 
+                    "EDate": "2019-12-12", 
+                    "DateType": "AD", 
+                    "CURN": "EUR"
+                }
+}
